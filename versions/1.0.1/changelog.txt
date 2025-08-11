@@ -1,4 +1,5 @@
-Los Pelagatos — v1.0.1: correcciones menores, optimización y arreglos visuales. 
+Los Pelagatos — v1.0.1: correcciones menores, optimización y arreglos visuales.
+
 - Maravilloso
 - Estupendo
 - De locos
