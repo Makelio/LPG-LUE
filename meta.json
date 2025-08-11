@@ -2,21 +2,11 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-    {
-      "id": "1.0.1",
-      "releasedAt": 1754939763000,
+    { "id": "1.0.1", "releasedAt": 1754939763071 },
+    { "id": "1.0.2", "releasedAt": 1755026163000,
       "promotions": {
         "downloads": {
-         "generic": "https://tuservidor.com/descargas/LosPelagatos-1.0.1.zip"
-        }
-      }
-    }
-    {
-      "id": "1.0.2",
-      "releasedAt": 1754948729000,
-      "promotions": {
-        "downloads": {
-         "generic": "https://tuservidor.com/descargas/LosPelagatos-1.0.1.zip"
+          "generic": "https://tuenlace/LosPelagatos-1.0.2.zip"
         }
       }
     }
