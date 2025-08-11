@@ -1,4 +1,3 @@
-Los Pelagatos: La Última Era — v1.0.1
-• Correcciones menores
-• Optimización del arranque
-• Ajustes visuales
+Los Pelagatos: La Última Era — v1.0.0
+
+· Modpack Base para el inicio del servidor
