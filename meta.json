@@ -3,7 +3,8 @@
   "hotfixesFormat": null,
   "versions": [
     { "id": "1.0.1", "releasedAt": 1754939763071 },
-    { "id": "1.0.2", "releasedAt": 1755026163000,
+    { "id": "1.0.2", "releasedAt": 1755026163000 },
+      { "id": "1.0.3", "releasedAt": 1755035941000,
       "promotions": {
         "downloads": {
           "generic": "https://tuenlace/LosPelagatos-1.0.2.zip"
